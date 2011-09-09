@@ -1,0 +1,72 @@
+
+SAAS Project Name: "MySpot" (Until official domain name determined.)
+
+"The man that has goals dictates them to the man that doesn't."
+
+---------------------------------------------------------------------------------
+SUMMARY - An open source experiment
+---------------------------------------------------------------------------------
+
+After reading Peter Drucker's book  "Effective Executive" I saw how time is the most precious resource of all. In this day and age of information, it's vital to reduce the noise and be able to cut through. Home organization requires the management of time, money, and information.
+
+I have been using 37signals products since 2007 for personal organization.
+But I'm interested in developing something more specific for personal management. 
+
+I'm on github to find people who would want to try collaborate together to develop the following SAAS;
+
+
+---------------------------------------------------------------------------------
+FEATURE SET - a personal dashboard to manage the following ;
+---------------------------------------------------------------------------------
+
+
+:: Time Tab ::
+Not a time tracker for billing, but for ensuring reported time is invested as you want it to be.
+
+- Time Forward -
+You have 16 waking hours - what do you plant to do with them today?
+(I have a google spreadsheet to share that I've been using for 2+ years to plan day, week, qtr)
+
+- Time Backward - 
+What did you do last week? - Was it 
+(I have been trying out letsfreckle.com - awesome interface, but different target market)
+
+:: Goals ::
+An active interface that keeps my goals in front of me based off the VOGI 'pyramid' model 
+(Vision, Objectives, Goals, Initiatives.)
+
+:: Journal ::
+Record new thoughts, ideas, progress, etc.
+
+:: Contacts :: 
+Online rolodex to keep all account info for friends, logins, etc.)
+
+:: Tasks ::
+Send reminders to yourself for Pay bills, Send gifts, book reservation, etc.
+
+:: Storage ::
+Relevant Files, links, photos, book lists, etc.
+
+
+
+
+---------------------------------------------------------------------------------
+ABOUT me
+---------------------------------------------------------------------------------
+The internet is here to stay and I want to join the party. 
+I made my first fully hand-coded website this Summer - http://dave.woodalls.me
+
+I'm learning the languages (HTML..ROR) enough to be able to find people who really know what they're doing.
+I have started two businesses and would love to help develop this project from the customer's standpoint.
+
+
+
+
+
+---------------------------------------------------------------------------------
+NEXT STEPS
+---------------------------------------------------------------------------------
+
+I'll be adding more thoughts as they come...
+
+Anyone interested?
