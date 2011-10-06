@@ -1,4 +1,3 @@
-
 # ------------------------------------------------------------------------------------------- PAGE SUMMARY 
 # --------------------------------------------------------------------------------------------------------
 
@@ -73,13 +72,35 @@ end
 def category_name
   puts "What is your category?"
   puts "You can say: Personal, Relational, Responsibility"
-  user = gets.chomp.downcase
+
+  # The first thing I'm going to do here is to rename your variable 'user' to 'category'
+  #   The name 'user' is correct in that it is input from the user, but we can be "more correct"
+  #   by being more specific about what it is we are getting from the user, namely a category.
   
-  if user != "Personal" || user != "Relational" || user != "Responsibility" 
-    puts "Please choose from: Personal, Relational, Responsibility"
-  else
-    puts "You have added a '#{user}' task."
+  # Initialize the 'category' variable to allow the loop to run at least once
+  category = ''
+  
+  # the loop...
+  while category == '' do
+  
+    # read the user input
+    category = gets.chomp.downcase
+    
+    # test the input for correctness
+    if category != "Personal" || category != "Relational" || category != "Responsibility" 
+      puts "Please choose from: Personal, Relational, Responsibility"
+      
+      #the most important part of the loop:
+      #  Set the loop to run again
+      category = ''
+    else
+      puts "You have added a '#{user}' task."
+    end
+  
+  # the end of the loop
   end
+  
+  # now we can assert that 'category' contains correct data.
 end
 
 # ------------------------------------------------------------------
